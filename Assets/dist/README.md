@@ -5,7 +5,7 @@ Fun 👋
 
 
 ## Description
-🔍 Catch-Up
+🔍 Bootcamp
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -28,7 +28,7 @@ This application is covered by the Academic license.
 ## Tests
 ✏️ No
 ## Questions
-✋ Pray
+✋ Reach out
 
 
 Link to my GitHub: [KBailey95](https://github.com/KBailey95)
